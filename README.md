@@ -20,4 +20,4 @@
 
   ![Visitor Count](https://profile-counter.glitch.me/Arutoria2024/count.svg)
 
-[github-sub-title:img]: https://pic1.imgdb.cn/item/678e578fd0e0a243d4f5f660.png.
+[github-sub-title:img]: https://count.getloli.com/get/@codeacg.github.readme?theme=rule34.
