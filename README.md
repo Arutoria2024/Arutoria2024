@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arutoria2024&show_icons=true&theme=tokyonight)](https://space.bilibili.com/392862163)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-PRTS%E7%99%BD-yello)](https://www.zhihu.com/people/prts-23)
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-PRTS-yello)](https://www.zhihu.com/people/prts-23)
 [![Bilibili](https://img.shields.io/badge/video-Bilibili-pink)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20Python-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
