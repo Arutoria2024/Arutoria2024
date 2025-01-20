@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
+<img src="https://count.getloli.com/get/@:Arutoria2024.github.readme?&theme=rule34" /><br>
+
 </div>
 
 ![头像](image/头像.png)
