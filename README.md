@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](image/himage.png)
+![头像](image/头像.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/Arutoria2024/count.svg)
 
