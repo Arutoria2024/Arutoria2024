@@ -12,14 +12,12 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
-<img src="https://count.getloli.com/get/@:Arutoria2024.github.readme?&theme=rule34" /><br>
-
 </div>
 
 ![头像](image/头像.png)
 
 <div id="title" align=center>
 
-  ![Visitor Count](https://profile-counter.glitch.me/Arutoria2024/count.svg)
+<img src="https://count.getloli.com/get/@:Arutoria2024.github.readme?&theme=rule34" /><br>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Arutoria2024.
